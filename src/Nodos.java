@@ -1,5 +1,5 @@
 public class Nodos {
-    //dato
+    //datos
     Object dato;
     Nodos siguiente;
     //metodo constructor
