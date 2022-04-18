@@ -25,7 +25,7 @@ public class Lista_SE {
         }
     }
 
-    //Tamaño lista 2
+    //Tamaño de lista 2
     public int tamaño() {
         int tamaño = 0;
         Nodos aux = inicio;
